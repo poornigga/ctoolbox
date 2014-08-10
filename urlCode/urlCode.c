@@ -159,8 +159,8 @@ int g2u(char *inbuf,size_t inlen,char *outbuf,size_t outlen)
 int main(int argc, char **argv) {
     //char *home = "www.baidu.com";
     char *home2 = "q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91zhang";
-    //char *home = "中国zhadifg大东网络";
-    char *home = "张鑫";
+    //char *home = "中国zhadifg网络";
+    char *home = "张三";
     char buf[256] = {0};
     char puf[256] = {0};
 
